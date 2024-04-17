@@ -35,7 +35,7 @@ format:
 
 ## {transition="zoom"}
 
-![](imagenes/bienvenidos.jpg){width=900px fig-align="center"} 
+![](imagenes/bienvenidos.JPG){width=900px fig-align="center"} 
 
 
 ##
@@ -118,7 +118,9 @@ format:
 
 [**GRACIAS**]{.big-par .center-justified}
 
-[**Concurso Funciona! 2023 - Servicio Civil**]{.big-par .center-justified}
+[**Bienvenida, cronograma y checkpoint del Proyecto Chile-México**]{.big-par .center-justified}
 
-[**Febrero 2024**]{.big-par .center-justified}
+[**INEGI - INE**]{.big-par .center-justified}
+
+[**Abril 2024**]{.big-par .center-justified}
 
