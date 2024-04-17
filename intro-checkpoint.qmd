@@ -33,90 +33,76 @@ format:
 [**Abril 2024**]{.big-par .center-justified}
 
 
-## Team de la iniciativa {transition="zoom"}
+## {transition="zoom"}
+
+![](imagenes/bienvenidos.jpg){width=900px fig-align="center"} 
+
+
+##
 
 ::: {.panel-tabset}
 
-### [Klaus]{.medium-par}
+### [Aspectos logísticos]{.medium-par}
+
+<br/>
+
+[Van institucional los **irá a buscar** todos los días a las **8:30** al hotel]{.medium-par}
+
+[También los **irá a dejar** al hotel al término de las actividades]{.medium-par}
+
+[Las actividades se desarrollarán todos los días **en esta sala** (Morandé 801, piso 2, auditorio)]{.medium-par}
+
+[Todos los días soporte les habilitará **wifi** (entiendo que es un ritual diario)]{.medium-par}
+
+[Habrán espacios de **coffee en la mañana y en la tarde**]{.medium-par}
+
+[Habrá un espacio de **almuerzo ~13:00 hrs cada día**]{.medium-par}
+
+### [Antecedentes]{.medium-par}
+
+<br/>
+
+[**Nomnbre proyecto:** *"Desarrollo de una plataforma tecnológica de código abierto, orientada a la integración de diversas fuentes de información, para mejorar el aprovechamiento de los productos de las oficinas de estadística"*]{.medium-par}
+
+[**Marzo 2023:** adjudicación fondo Chile-México]{.medium-par}
+
+[**Agosto 2023:** firma de convenio entre INE Chile y la Agencia de Cooperación Internacional para el Desarrollo (AGCID)]{.medium-par}
+
+[**Octubre 2023:** transferencia de recursos al INE Chile]{.medium-par}
+
+[**Noviembre 2023:** primera pasantía INE Chile a INEGI]{.medium-par}
+
+
+### [Presentaciones]{.medium-par}
 
 <br/>
 <br/>
+<br/>
 
-[**Klaus Lehmann**]{.big-par}
+[Ronda de presentaciones Team INE]{.big-par}
 
-[*Coordinador Técnico Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+<br/>
 
-### [Jonathan]{.medium-par}
+[Ronda de presentaciones Team INEGI]{.big-par}
+
+### [Cronograma]{.medium-par}
 
 <br/>
 <br/>
-
-[**Jonathan Paredes**]{.big-par}
-
-[*Coordinador de Sección de Estudios de Marcos y Muestras - Departamento de Metodologías e Innovación Estadísticas*]{.medium-par}
-
-### [Ricardo]{.medium-par}
-
+<br/>
 <br/>
 <br/>
 
-[**Ricardo Pizarro**]{.big-par}
 
-[*Analista Senior - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
-
-### [Javiera]{.medium-par}
-
-<br/>
-<br/>
-
-[**Javiera Preuss**]{.big-par}
-
-[*Científica de Datos - Proyecto Ciencia de Datos / Subdirección Técnica*]{.medium-par}
-
-### [Ignacio]{.medium-par}
-
-<br/>
-<br/>
-
-[**Ignacio Agloni**]{.big-par}
-
-[*Jefe Proyecto Ciencia de Datos - Subdirección Técnica*]{.medium-par}
+[Cronograma de actividades](https://inechile.sharepoint.com/:w:/s/cienciadedatos/ERsyB-q8mKdPnCtw1w-BQsYB2f3BVafH-6kfH3GGniJcuA?e=KrQsAd){.big-par}
 
 :::
 
-## El problema {transition="convex"}
+## Checkpoint {transition="convex"}
 
-![](imagenes/estandar.JPG){width=600px fig-align="center"}
+<br/>
 
-:::
-
-## La solución {transition="slide"}
-
-<br>
-
-Desarrollo de un programa en R para la implementación del estándar  
-
-<br>
-
-![](imagenes/calidad.png){width=300px fig-align="center"} 
-
-## Impacto {transition="zoom"}
-
-<br>
-
-::: {.incremental .medium-par}
-
-- **Homologación** en la implementación del estándar de calidad dentro del INE<br><br>
-
-- **Reducción de tiempo y errores**<br><br>
-
-- **Simplificación del estándar para usuarios externos**<br><br>
-
-- Creación de una **herramienta gratuita** para la ciudadanía
-
-:::
-
-
+[Revisión del Planner Chile-México]{.medium-par}
 
 #
 
